@@ -1,4 +1,4 @@
----
+---urlchange
 title: Changing a remote's URL
 redirect_from:
   - /articles/changing-a-remote-s-url
